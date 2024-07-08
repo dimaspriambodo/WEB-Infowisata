@@ -1,0 +1,47 @@
+.banner {
+    background: url("gambar/bg.jpeg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: rgb(255, 255, 255);
+}
+
+.crop-img {
+   object-fit: cover;
+}
+
+.kontak {
+    background-color: white;
+    color: #2D2F3F;
+}
+
+body {
+   margin: 0;
+   padding: 0;
+   font-family: Arial, sans-serif;
+   background-color: #2D2F3F;
+   color: rgb(255, 255, 255);
+}
+.footer {
+   background-color: #1B1D2B;
+   padding: 20px 0;
+   text-align: center;
+}
+.footer a {
+   color: white;
+   text-decoration: none;
+   margin: 0 15px;
+}
+.footer a:hover {
+   text-decoration: underline;
+}
+.footer-social {
+   margin: 20px 0;
+}
+.footer-social a {
+   margin: 0 10px;
+   font-size: 20px;
+}
+.footer p {
+   margin: 10px 0;
+}
